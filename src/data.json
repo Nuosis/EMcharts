@@ -1,0 +1,7 @@
+{
+    "Type1": { "totalHoursV2Original": 10, "totalBurdenV2": 300, "totalActualV2": 700 },
+    "Type2": { "totalHoursV2Original": 40, "totalBurdenV2": 1200, "totalActualV2": 2800 },
+    "Type3": { "totalHoursV2Original": 5, "totalBurdenV2": 150, "totalActualV2": 350 },
+    "Type4": { "totalHoursV2Original": 33, "totalBurdenV2": 1515, "totalActualV2": 2121 },
+    "Type5": { "totalHoursV2Original": 3, "totalBurdenV2": 90, "totalActualV2": 210 }
+}
